@@ -1,0 +1,19 @@
+{
+    "name": "pctlib/filescanner",
+    "description": "File Scanner",
+    "type": "library",
+    "require": {
+        "pctlib/cliarguments": "^0.0.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "pctlib\\filescanner\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jason Thompson"
+        }
+    ]
+}
